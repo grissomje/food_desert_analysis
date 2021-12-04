@@ -1,1 +1,5 @@
 openpyxl
+statsmodels
+pandas
+numpy
+seaborn
